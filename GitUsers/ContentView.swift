@@ -81,7 +81,7 @@ struct GithubUser: Codable {
     let login: String
     let avatarUrl: String
     let bio: String?
-}  // Make bio optional
+}  
 
 enum GitError: Error {
     case invalidURL
