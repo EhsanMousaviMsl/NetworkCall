@@ -1,10 +1,3 @@
-//
-//  GitUsersApp.swift
-//  GitUsers
-//
-//  Created by Yahya Goorakani on 7/20/25.
-//
-
 import SwiftUI
 
 @main
