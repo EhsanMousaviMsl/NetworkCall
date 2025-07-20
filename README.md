@@ -22,4 +22,4 @@ A simple SwiftUI app that fetches and displays GitHub user profile information u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/github-user-viewer.git
+   https://github.com/EhsanMousaviMsl/NetworkCall.git
